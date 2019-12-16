@@ -21,16 +21,17 @@ npm start
 
 ## Run tests
 
+To run tests once run
 ```sh
 npm test
 ```
-To run tests in watch mode
+To run tests in watch mode run
 
 ```sh
 npm run test:watch
 ```
 
-To generate test coverage information
+To generate test coverage information run
 
 ```sh
 npm run test:coverage
