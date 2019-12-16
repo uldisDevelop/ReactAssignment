@@ -1,0 +1,37 @@
+
+  .background {
+    position: absolute;    
+    top:0px;    
+    bottom:0px;
+    left:0px;
+    right:0px;
+    background:#000;
+    opacity:0.5;
+    z-index:10;
+  }
+
+  .panel{
+    left:50%;
+    top:30%;
+    transform:translate(-50%,-30%); 
+    position: absolute;
+    background-color: whitesmoke;   
+    min-width:400px;
+    box-shadow: 0px 0px 10px #5a5a5a;
+    padding:10px;
+    max-height:90vh;
+    overflow:auto;
+    border-radius:2px;
+    z-index:11;
+  }
+  
+  .title{    
+    padding-bottom:10px;
+    border-bottom: 1px solid silver;
+    margin-bottom:5px;
+    font-size:20px;
+  }
+
+  .btnContainer{
+    text-align: right;
+  }
