@@ -19,7 +19,7 @@ npm install
 npm start
 ```
 
-# Run tests
+## Run tests
 
 ```sh
 npm test
@@ -36,7 +36,7 @@ To generate test coverage information
 npm run test:coverage
 ```
 
-# Create production build
+## Create production build
 
 ```sh
 npm run build
